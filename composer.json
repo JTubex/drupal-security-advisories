@@ -346,6 +346,7 @@
         "drupal/perfecto": "1.0|1.1|>=1,<1.2",
         "drupal/persona": "1.0|1.0-beta1|1.0-beta2|1.0-beta3|1.0-beta4|1.0-beta5|1.0-beta6|1.0-beta7|1.0-rc1|1.0-rc2|1.0-rc3|1.1|1.2|1.3|1.4|1.5|1.6|1.7|1.8|1.9|1.10|>=1,<1.11",
         "drupal/petitions": "1.0|1.0-alpha23|1.0-alpha24|1.0-alpha25|1.0-alpha27|1.0-alpha28|1.0-alpha29|1.0-alpha30|1.0-alpha32|>=1,<1.2",
+        "drupal/phonefield": "1.0",
         "drupal/phpconfig": "1.0|>=1,<1.1",
         "drupal/piwik": "2.0|2.1|2.2|2.3|2.4|2.5|2.6|2.7|2.8|>=2,<2.7|>=2,<2.9",
         "drupal/plupload": "1.0|1.0-beta1|1.0-beta2|1.0-beta3|1.0-beta4|1.0-rc1|>=1,<1.0-beta2|>=1,<1.1",
